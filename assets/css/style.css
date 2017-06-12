@@ -1,0 +1,101 @@
+/*
+wood brown: A89F68;
+army green: ;
+*/
+.bienvenida{
+    background: url("../img/portada.jpg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    color: white;
+}
+
+.navbar-inverse{
+    background-color: transparent;
+    border: none;
+}
+
+.navbar-inverse .navbar-nav>li>a,
+.navbar-inverse .navbar-brand {
+    color: #fff;
+}
+
+.navbar-default{
+    background-color: transparent;
+    border: none;
+    color: white;
+}
+
+.contenido-bienv{
+    padding: 150px 0;
+    color: white;
+}
+
+.btn-verde{
+    background-color: #41521F;
+    color: white;
+    font-weight: bolder;
+}
+
+/*seccion 2*/
+.papahijo{
+    background: url("../assets/img/tres.jpg");
+
+}
+
+.contenido-secc02{
+    color: #A89F68;
+    padding-top: 100px;
+}
+
+#foundation .caja-texto h2{
+    color: #41521F;
+}
+/* seccion3 */
+#easyhelp img {
+    margin-top: 2em;
+    padding-bottom: 60px;
+}
+
+/* seccion4 */
+#helpkoala {
+    background-image: url(../img/all.jpg);
+    padding: 5em 0;
+}
+#helpkoala h2, #helpkoala h2 small {
+    color: #fff;
+}
+.background-img{
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    color: white;
+}
+
+/* seccion5 */
+#seccion-icon {
+    padding: 5em 0;
+}
+
+
+/* seccion6 pendiente*/
+
+/* footer*/
+footer {
+    color: #fff;
+    background-color: #41521F;
+    padding: 5em 0 2em;
+}
+footer h4 {
+    color: #A89F68;
+    font-weight: bold;
+}
+footer {
+    padding: 3em 0 0;
+}
+footer a:hover,
+footer a:focus,
+}
+
+
+
